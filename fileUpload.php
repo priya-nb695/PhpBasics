@@ -49,7 +49,6 @@ if(isset($_POST["submit"])) {
     <form action="" method="POST" enctype="multipart/form-data">
         <input type="file" name="filejpg" />
         <input type="submit" value="SUBMIT" name="submit" >
-
     </form>
 </body>
 </html>
